@@ -9,4 +9,5 @@
 //  Prints Hello World with Style.
 
 // Output to Console
-print("Hello World, with Style!")
+print("Hello Van, with Style!")
+print("How are you doing!")
